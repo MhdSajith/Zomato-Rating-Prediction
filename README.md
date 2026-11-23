@@ -36,7 +36,7 @@ Link: <paste Kaggle link here>
 ## Key Findings
 - Votes and cost are the most important features.
 - Online delivery restaurants tend to have higher ratings.
-- <add your own findings>
+- Popular cuisines maintain steady mid-to-high ratings High-demand categories like North Indian
 
 ## Limitations
 - No review text or food quality data.
